@@ -1,4 +1,4 @@
-# ANN_Project3-Reinforcement_Learning
+# Artificial Neural Network - Project 3 - Reinforcement Learning: landing on the moon
 
 Traditionally, reinforcement learning has operated on "tabular" state spaces, e.g. "State 1", "State 2", "State 3" etc. However, many important and interesting reinforcement learning problems (like moving robot arms or playing Atari games) are based on either continuous or very high-dimensional state spaces (like robot joint angles or pixels). Deep neural networks constitute one method for learning a value function or policy from continuous and high-dimensional observations. 
 
